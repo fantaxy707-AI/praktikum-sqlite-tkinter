@@ -1,0 +1,1 @@
+# praktikum-sqlite-tkinter
